@@ -1,11 +1,3 @@
-/*
-Author: Elizabeth Fassler
-Course: COP 2210 RVD 1231
-Date: 04/18/2023
-Assignment: 15.1 Lab
-Instructor: Sergio Pisano
-Description: Soccer team roster
-*/
 import java.util.Scanner;
 // class PlayerRoster
 public class PlayerRoster {
